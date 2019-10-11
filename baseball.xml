@@ -1,0 +1,838 @@
+<?xml version='1.0'?>
+<!-- This file contains data on major league baseball players.-->
+<MLB>
+  <player>
+    <name>Mookie Betts</name>
+    <team>Red Sox</team>
+    <atBats>520</atBats>
+    <hits>180</hits>
+  </player>
+  <player>
+    <name>J.D. Martinez</name>
+    <team>Red Sox</team>
+    <atBats>569</atBats>
+    <hits>188</hits>
+  </player>
+  <player>
+    <name>Christian Yelich</name>
+    <team>Brewers</team>
+    <atBats>570</atBats>
+    <hits>184</hits>
+  </player>
+  <player>
+    <name>Jose Altuve</name>
+    <team>Astros</team>
+    <atBats>534</atBats>
+    <hits>168</hits>
+  </player>
+  <player>
+    <name>Mike Trout</name>
+    <team>Angels</team>
+    <atBats>471</atBats>
+    <hits>147</hits>
+  </player>
+  <player>
+    <name>Scooter Gennett</name>
+    <team>Reds</team>
+    <atBats>584</atBats>
+    <hits>181</hits>
+  </player>
+  <player>
+    <name>Freddie Freeman</name>
+    <team>Braves</team>
+    <atBats>618</atBats>
+    <hits>191</hits>
+  </player>
+  <player>
+    <name>Michael Brantley</name>
+    <team>Indians</team>
+    <atBats>570</atBats>
+    <hits>176</hits>
+  </player>
+  <player>
+    <name>Lorenzo Cain</name>
+    <team>Brewers</team>
+    <atBats>535</atBats>
+    <hits>165</hits>
+  </player>
+  <player>
+    <name>Anthony Rendon</name>
+    <team>Nationals</team>
+    <atBats>529</atBats>
+    <hits>163</hits>
+  </player>
+  <player>
+    <name>Ben Zobrist</name>
+    <team>Cubs</team>
+    <atBats>452</atBats>
+    <hits>139</hits>
+  </player>
+  <player>
+    <name>Jose Martinez</name>
+    <team>Cardinals</team>
+    <atBats>534</atBats>
+    <hits>163</hits>
+  </player>
+  <player>
+    <name>Whit Merrifield</name>
+    <team>Royals</team>
+    <atBats>632</atBats>
+    <hits>192</hits>
+  </player>
+  <player>
+    <name>Jean Segura</name>
+    <team>Mariners</team>
+    <atBats>586</atBats>
+    <hits>178</hits>
+  </player>
+  <player>
+    <name>Joey Wendle</name>
+    <team>Rays</team>
+    <atBats>487</atBats>
+    <hits>146</hits>
+  </player>
+  <player>
+    <name>Corey Dickerson</name>
+    <team>Pirates</team>
+    <atBats>504</atBats>
+    <hits>151</hits>
+  </player>
+  <player>
+    <name>Nicholas Castellanos</name>
+    <team>Tigers</team>
+    <atBats>620</atBats>
+    <hits>185</hits>
+  </player>
+  <player>
+    <name>Manny Machado</name>
+    <team>Dodgers</team>
+    <atBats>628</atBats>
+    <hits>187</hits>
+  </player>
+  <player>
+    <name>Nick Markakis</name>
+    <team>Braves</team>
+    <atBats>623</atBats>
+    <hits>185</hits>
+  </player>
+  <player>
+    <name>Nolan Arenado</name>
+    <team>Rockies</team>
+    <atBats>586</atBats>
+    <hits>174</hits>
+  </player>
+  <player>
+    <name>Miguel Andujar</name>
+    <team>Yankees</team>
+    <atBats>573</atBats>
+    <hits>170</hits>
+  </player>
+  <player>
+    <name>Mallex Smith</name>
+    <team>Rays</team>
+    <atBats>480</atBats>
+    <hits>142</hits>
+  </player>
+  <player>
+    <name>Matt Duffy</name>
+    <team>Rays</team>
+    <atBats>503</atBats>
+    <hits>148</hits>
+  </player>
+  <player>
+    <name>David Peralta</name>
+    <team>Diamondbacks</team>
+    <atBats>560</atBats>
+    <hits>164</hits>
+  </player>
+  <player>
+    <name>Andrelton Simmons</name>
+    <team>Angels</team>
+    <atBats>554</atBats>
+    <hits>162</hits>
+  </player>
+  <player>
+    <name>Trevor Story</name>
+    <team>Rockies</team>
+    <atBats>594</atBats>
+    <hits>173</hits>
+  </player>
+  <player>
+    <name>Javier Baez</name>
+    <team>Cubs</team>
+    <atBats>602</atBats>
+    <hits>175</hits>
+  </player>
+  <player>
+    <name>Yuli Gurriel</name>
+    <team>Astros</team>
+    <atBats>537</atBats>
+    <hits>156</hits>
+  </player>
+  <player>
+    <name>Andrew Benintendi</name>
+    <team>Red Sox</team>
+    <atBats>579</atBats>
+    <hits>168</hits>
+  </player>
+  <player>
+    <name>Paul Goldschmidt</name>
+    <team>Diamondbacks</team>
+    <atBats>593</atBats>
+    <hits>172</hits>
+  </player>
+  <player>
+    <name>Matt Kemp</name>
+    <team>Dodgers</team>
+    <atBats>462</atBats>
+    <hits>134</hits>
+  </player>
+  <player>
+    <name>Charlie Blackmon</name>
+    <team>Rockies</team>
+    <atBats>623</atBats>
+    <hits>180</hits>
+  </player>
+  <player>
+    <name>Xander Bogaerts</name>
+    <team>Red Sox</team>
+    <atBats>513</atBats>
+    <hits>148</hits>
+  </player>
+  <player>
+    <name>Eddie Rosario</name>
+    <team>Twins</team>
+    <atBats>559</atBats>
+    <hits>161</hits>
+  </player>
+  <player>
+    <name>Jose Peraza</name>
+    <team>Reds</team>
+    <atBats>632</atBats>
+    <hits>182</hits>
+  </player>
+  <player>
+    <name>Alex Bregman</name>
+    <team>Astros</team>
+    <atBats>594</atBats>
+    <hits>170</hits>
+  </player>
+  <player>
+    <name>Mitch Haniger</name>
+    <team>Mariners</team>
+    <atBats>596</atBats>
+    <hits>170</hits>
+  </player>
+  <player>
+    <name>Joey Votto</name>
+    <team>Reds</team>
+    <atBats>503</atBats>
+    <hits>143</hits>
+  </player>
+  <player>
+    <name>Anthony Rizzo</name>
+    <team>Cubs</team>
+    <atBats>562</atBats>
+    <hits>159</hits>
+  </player>
+  <player>
+    <name>Eugenio Suarez</name>
+    <team>Reds</team>
+    <atBats>527</atBats>
+    <hits>149</hits>
+  </player>
+  <player>
+    <name>Joe Mauer</name>
+    <team>Twins</team>
+    <atBats>486</atBats>
+    <hits>137</hits>
+  </player>
+  <player>
+    <name>Adam Jones</name>
+    <team>Orioles</team>
+    <atBats>580</atBats>
+    <hits>163</hits>
+  </player>
+  <player>
+    <name>Marcell Ozuna</name>
+    <team>Cardinals</team>
+    <atBats>582</atBats>
+    <hits>163</hits>
+  </player>
+  <player>
+    <name>Starlin Castro</name>
+    <team>Marlins</team>
+    <atBats>593</atBats>
+    <hits>165</hits>
+  </player>
+  <player>
+    <name>DJ LeMahieu</name>
+    <team>Rockies</team>
+    <atBats>529</atBats>
+    <hits>147</hits>
+  </player>
+  <player>
+    <name>Matt Chapman</name>
+    <team>Athletics</team>
+    <atBats>547</atBats>
+    <hits>152</hits>
+  </player>
+  <player>
+    <name>Starling Marte</name>
+    <team>Pirates</team>
+    <atBats>559</atBats>
+    <hits>155</hits>
+  </player>
+  <player>
+    <name>Francisco Lindor</name>
+    <team>Indians</team>
+    <atBats>661</atBats>
+    <hits>183</hits>
+  </player>
+  <player>
+    <name>J.T. Realmuto</name>
+    <team>Marlins</team>
+    <atBats>477</atBats>
+    <hits>132</hits>
+  </player>
+  <player>
+    <name>Tommy Pham</name>
+    <team>Rays</team>
+    <atBats>494</atBats>
+    <hits>136</hits>
+  </player>
+  <player>
+    <name>Jesus Aguilar</name>
+    <team>Brewers</team>
+    <atBats>488</atBats>
+    <hits>134</hits>
+  </player>
+  <player>
+    <name>Brian Anderson</name>
+    <team>Marlins</team>
+    <atBats>590</atBats>
+    <hits>161</hits>
+  </player>
+  <player>
+    <name>Eduardo Escobar</name>
+    <team>Diamondbacks</team>
+    <atBats>566</atBats>
+    <hits>154</hits>
+  </player>
+  <player>
+    <name>Jose Ramirez</name>
+    <team>Indians</team>
+    <atBats>578</atBats>
+    <hits>157</hits>
+  </player>
+  <player>
+    <name>Johan Camargo</name>
+    <team>Braves</team>
+    <atBats>464</atBats>
+    <hits>126</hits>
+  </player>
+  <player>
+    <name>Trea Turner</name>
+    <team>Nationals</team>
+    <atBats>664</atBats>
+    <hits>180</hits>
+  </player>
+  <player>
+    <name>Dee Gordon</name>
+    <team>Mariners</team>
+    <atBats>556</atBats>
+    <hits>149</hits>
+  </player>
+  <player>
+    <name>Didi Gregorius</name>
+    <team>Yankees</team>
+    <atBats>504</atBats>
+    <hits>135</hits>
+  </player>
+  <player>
+    <name>Jon Jay</name>
+    <team>Diamondbacks</team>
+    <atBats>527</atBats>
+    <hits>141</hits>
+  </player>
+  <player>
+    <name>Stephen Piscotty</name>
+    <team>Athletics</team>
+    <atBats>546</atBats>
+    <hits>146</hits>
+  </player>
+  <player>
+    <name>Jed Lowrie</name>
+    <team>Athletics</team>
+    <atBats>596</atBats>
+    <hits>159</hits>
+  </player>
+  <player>
+    <name>Giancarlo Stanton</name>
+    <team>Yankees</team>
+    <atBats>617</atBats>
+    <hits>164</hits>
+  </player>
+  <player>
+    <name>George Springer</name>
+    <team>Astros</team>
+    <atBats>544</atBats>
+    <hits>144</hits>
+  </player>
+  <player>
+    <name>Ender Inciarte</name>
+    <team>Braves</team>
+    <atBats>597</atBats>
+    <hits>158</hits>
+  </player>
+  <player>
+    <name>Derek Dietrich</name>
+    <team>Marlins</team>
+    <atBats>499</atBats>
+    <hits>132</hits>
+  </player>
+  <player>
+    <name>Jose Abreu</name>
+    <team>White Sox</team>
+    <atBats>499</atBats>
+    <hits>132</hits>
+  </player>
+  <player>
+    <name>Shin-Soo Choo</name>
+    <team>Rangers</team>
+    <atBats>560</atBats>
+    <hits>148</hits>
+  </player>
+  <player>
+    <name>Brandon Nimmo</name>
+    <team>Mets</team>
+    <atBats>433</atBats>
+    <hits>114</hits>
+  </player>
+  <player>
+    <name>Asdrubal Cabrera</name>
+    <team>Phillies</team>
+    <atBats>546</atBats>
+    <hits>143</hits>
+  </player>
+  <player>
+    <name>Josh Bell</name>
+    <team>Pirates</team>
+    <atBats>501</atBats>
+    <hits>131</hits>
+  </player>
+  <player>
+    <name>Yadier Molina</name>
+    <team>Cardinals</team>
+    <atBats>459</atBats>
+    <hits>120</hits>
+  </player>
+  <player>
+    <name>Ozzie Albies</name>
+    <team>Braves</team>
+    <atBats>639</atBats>
+    <hits>167</hits>
+  </player>
+  <player>
+    <name>Cody Bellinger</name>
+    <team>Dodgers</team>
+    <atBats>553</atBats>
+    <hits>144</hits>
+  </player>
+  <player>
+    <name>Jonathan Villar</name>
+    <team>Brewers</team>
+    <atBats>466</atBats>
+    <hits>121</hits>
+  </player>
+  <player>
+    <name>Ketel Marte</name>
+    <team>Diamondbacks</team>
+    <atBats>520</atBats>
+    <hits>135</hits>
+  </player>
+  <player>
+    <name>Nomar Mazara</name>
+    <team>Rangers</team>
+    <atBats>489</atBats>
+    <hits>126</hits>
+  </player>
+  <player>
+    <name>Matt Carpenter</name>
+    <team>Cardinals</team>
+    <atBats>564</atBats>
+    <hits>145</hits>
+  </player>
+  <player>
+    <name>Justin Upton</name>
+    <team>Angels</team>
+    <atBats>533</atBats>
+    <hits>137</hits>
+  </player>
+  <player>
+    <name>Amed Rosario</name>
+    <team>Mets</team>
+    <atBats>554</atBats>
+    <hits>142</hits>
+  </player>
+  <player>
+    <name>Nelson Cruz</name>
+    <team>Mariners</team>
+    <atBats>519</atBats>
+    <hits>133</hits>
+  </player>
+  <player>
+    <name>Andrew McCutchen</name>
+    <team>Yankees</team>
+    <atBats>569</atBats>
+    <hits>145</hits>
+  </player>
+  <player>
+    <name>Marcus Semien</name>
+    <team>Athletics</team>
+    <atBats>632</atBats>
+    <hits>161</hits>
+  </player>
+  <player>
+    <name>Odubel Herrera</name>
+    <team>Phillies</team>
+    <atBats>550</atBats>
+    <hits>140</hits>
+  </player>
+  <player>
+    <name>Brandon Crawford</name>
+    <team>Giants</team>
+    <atBats>531</atBats>
+    <hits>135</hits>
+  </player>
+  <player>
+    <name>Jurickson Profar</name>
+    <team>Rangers</team>
+    <atBats>524</atBats>
+    <hits>133</hits>
+  </player>
+  <player>
+    <name>Gregory Polanco</name>
+    <team>Pirates</team>
+    <atBats>461</atBats>
+    <hits>117</hits>
+  </player>
+  <player>
+    <name>Chris Taylor</name>
+    <team>Dodgers</team>
+    <atBats>536</atBats>
+    <hits>136</hits>
+  </player>
+  <player>
+    <name>C.J. Cron</name>
+    <team>Rays</team>
+    <atBats>501</atBats>
+    <hits>127</hits>
+  </player>
+  <player>
+    <name>Rougned Odor</name>
+    <team>Rangers</team>
+    <atBats>474</atBats>
+    <hits>120</hits>
+  </player>
+  <player>
+    <name>Cesar Hernandez</name>
+    <team>Phillies</team>
+    <atBats>605</atBats>
+    <hits>153</hits>
+  </player>
+  <player>
+    <name>Eric Hosmer</name>
+    <team>Padres</team>
+    <atBats>613</atBats>
+    <hits>155</hits>
+  </player>
+  <player>
+    <name>Miguel Rojas</name>
+    <team>Marlins</team>
+    <atBats>488</atBats>
+    <hits>123</hits>
+  </player>
+  <player>
+    <name>Kevin Pillar</name>
+    <team>Blue Jays</team>
+    <atBats>512</atBats>
+    <hits>129</hits>
+  </player>
+  <player>
+    <name>Mike Moustakas</name>
+    <team>Brewers</team>
+    <atBats>569</atBats>
+    <hits>143</hits>
+  </player>
+  <player>
+    <name>Victor Martinez</name>
+    <team>Tigers</team>
+    <atBats>467</atBats>
+    <hits>117</hits>
+  </player>
+  <player>
+    <name>Willson Contreras</name>
+    <team>Cubs</team>
+    <atBats>471</atBats>
+    <hits>118</hits>
+  </player>
+  <player>
+    <name>Yonder Alonso</name>
+    <team>Indians</team>
+    <atBats>516</atBats>
+    <hits>129</hits>
+  </player>
+  <player>
+    <name>Bryce Harper</name>
+    <team>Nationals</team>
+    <atBats>550</atBats>
+    <hits>137</hits>
+  </player>
+  <player>
+    <name>Aaron Hicks</name>
+    <team>Yankees</team>
+    <atBats>480</atBats>
+    <hits>119</hits>
+  </player>
+  <player>
+    <name>Tucker Barnhart</name>
+    <team>Reds</team>
+    <atBats>460</atBats>
+    <hits>114</hits>
+  </player>
+  <player>
+    <name>Freddy Galvis</name>
+    <team>Padres</team>
+    <atBats>602</atBats>
+    <hits>149</hits>
+  </player>
+  <player>
+    <name>Marwin Gonzalez</name>
+    <team>Astros</team>
+    <atBats>489</atBats>
+    <hits>121</hits>
+  </player>
+  <player>
+    <name>Matt Olson</name>
+    <team>Athletics</team>
+    <atBats>580</atBats>
+    <hits>143</hits>
+  </player>
+  <player>
+    <name>Khris Davis</name>
+    <team>Athletics</team>
+    <atBats>576</atBats>
+    <hits>142</hits>
+  </player>
+  <player>
+    <name>Edwin Encarnacion</name>
+    <team>Indians</team>
+    <atBats>500</atBats>
+    <hits>123</hits>
+  </player>
+  <player>
+    <name>Rhys Hoskins</name>
+    <team>Phillies</team>
+    <atBats>558</atBats>
+    <hits>137</hits>
+  </player>
+  <player>
+    <name>Manuel Margot</name>
+    <team>Padres</team>
+    <atBats>477</atBats>
+    <hits>117</hits>
+  </player>
+  <player>
+    <name>Alex Gordon</name>
+    <team>Royals</team>
+    <atBats>506</atBats>
+    <hits>124</hits>
+  </player>
+  <player>
+    <name>Evan Longoria</name>
+    <team>Giants</team>
+    <atBats>480</atBats>
+    <hits>117</hits>
+  </player>
+  <player>
+    <name>Yasmani Grandal</name>
+    <team>Dodgers</team>
+    <atBats>436</atBats>
+    <hits>106</hits>
+  </player>
+  <player>
+    <name>Michael Conforto</name>
+    <team>Mets</team>
+    <atBats>543</atBats>
+    <hits>132</hits>
+  </player>
+  <player>
+    <name>Trey Mancini</name>
+    <team>Orioles</team>
+    <atBats>582</atBats>
+    <hits>141</hits>
+  </player>
+  <player>
+    <name>Yolmer Sanchez</name>
+    <team>White Sox</team>
+    <atBats>600</atBats>
+    <hits>145</hits>
+  </player>
+  <player>
+    <name>Justin Smoak</name>
+    <team>Blue Jays</team>
+    <atBats>505</atBats>
+    <hits>122</hits>
+  </player>
+  <player>
+    <name>Travis Shaw</name>
+    <team>Brewers</team>
+    <atBats>497</atBats>
+    <hits>120</hits>
+  </player>
+  <player>
+    <name>Ian Kinsler</name>
+    <team>Red Sox</team>
+    <atBats>487</atBats>
+    <hits>117</hits>
+  </player>
+  <player>
+    <name>Tim Anderson</name>
+    <team>White Sox</team>
+    <atBats>567</atBats>
+    <hits>136</hits>
+  </player>
+  <player>
+    <name>Teoscar Hernandez</name>
+    <team>Blue Jays</team>
+    <atBats>476</atBats>
+    <hits>114</hits>
+  </player>
+  <player>
+    <name>Kyle Schwarber</name>
+    <team>Cubs</team>
+    <atBats>426</atBats>
+    <hits>102</hits>
+  </player>
+  <player>
+    <name>Dansby Swanson</name>
+    <team>Braves</team>
+    <atBats>478</atBats>
+    <hits>114</hits>
+  </player>
+  <player>
+    <name>Ian Desmond</name>
+    <team>Rockies</team>
+    <atBats>553</atBats>
+    <hits>131</hits>
+  </player>
+  <player>
+    <name>Billy Hamilton</name>
+    <team>Reds</team>
+    <atBats>504</atBats>
+    <hits>119</hits>
+  </player>
+  <player>
+    <name>Brett Gardner</name>
+    <team>Yankees</team>
+    <atBats>530</atBats>
+    <hits>125</hits>
+  </player>
+  <player>
+    <name>Salvador Perez</name>
+    <team>Royals</team>
+    <atBats>510</atBats>
+    <hits>120</hits>
+  </player>
+  <player>
+    <name>Ryon Healy</name>
+    <team>Mariners</team>
+    <atBats>493</atBats>
+    <hits>116</hits>
+  </player>
+  <player>
+    <name>Yoan Moncada</name>
+    <team>White Sox</team>
+    <atBats>578</atBats>
+    <hits>136</hits>
+  </player>
+  <player>
+    <name>Nick Ahmed</name>
+    <team>Diamondbacks</team>
+    <atBats>516</atBats>
+    <hits>121</hits>
+  </player>
+  <player>
+    <name>Jackie Bradley Jr.</name>
+    <team>Red Sox</team>
+    <atBats>474</atBats>
+    <hits>111</hits>
+  </player>
+  <player>
+    <name>Alcides Escobar</name>
+    <team>Royals</team>
+    <atBats>485</atBats>
+    <hits>112</hits>
+  </player>
+  <player>
+    <name>Jason Kipnis</name>
+    <team>Indians</team>
+    <atBats>530</atBats>
+    <hits>122</hits>
+  </player>
+  <player>
+    <name>Carlos Santana</name>
+    <team>Phillies</team>
+    <atBats>560</atBats>
+    <hits>128</hits>
+  </player>
+  <player>
+    <name>Yangervis Solarte</name>
+    <team>Blue Jays</team>
+    <atBats>468</atBats>
+    <hits>106</hits>
+  </player>
+  <player>
+    <name>Jeimer Candelario</name>
+    <team>Tigers</team>
+    <atBats>539</atBats>
+    <hits>121</hits>
+  </player>
+  <player>
+    <name>Max Kepler</name>
+    <team>Twins</team>
+    <atBats>532</atBats>
+    <hits>119</hits>
+  </player>
+  <player>
+    <name>Kyle Seager</name>
+    <team>Mariners</team>
+    <atBats>583</atBats>
+    <hits>129</hits>
+  </player>
+  <player>
+    <name>Brian Dozier</name>
+    <team>Dodgers</team>
+    <atBats>553</atBats>
+    <hits>119</hits>
+  </player>
+  <player>
+    <name>Kole Calhoun</name>
+    <team>Angels</team>
+    <atBats>491</atBats>
+    <hits>102</hits>
+  </player>
+  <player>
+    <name>Joey Gallo</name>
+    <team>Rangers</team>
+    <atBats>500</atBats>
+    <hits>103</hits>
+  </player>
+  <player>
+    <name>Chris Davis</name>
+    <team>Orioles</team>
+    <atBats>470</atBats>
+    <hits>79</hits>
+  </player>
+</MLB>
